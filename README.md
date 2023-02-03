@@ -32,6 +32,6 @@ Notas finales:
 
  - Las imágenes se han obviado para no molestar demasiado a los servidores de [my-anime-list.net](https://myanimelist.net).
  - Los ficheros JSON del proceso del scrap han sido ignorados para no sobrecargar el repositorio.
- - Igualmente, los datos recopilados están en formato JSON en:
+ - Igualmente, los datos recopilados están en:
    - [./datos/animes.details.json](https://github.com/allnulled/scrap.only-anime.my-anime-list.net/blob/main/datos/animes.details.json) en formato JSON.
    - [./datos/animes.details.csv](https://github.com/allnulled/scrap.only-anime.my-anime-list.net/blob/main/datos/animes.details.csv) en formato CSV.
